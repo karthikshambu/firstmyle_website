@@ -16,7 +16,7 @@ body {
     background-color: #fff;
     border: 0px solid #D1D1D1;
     box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
-    height: 100px;
+    height: 70px;
 }
 .navbar-inverse .navbar-brand {
     color: #F2F2F2;
@@ -59,11 +59,11 @@ a, a:link, a:visited {
 }
 
 .main-container {
-    margin-top: 101px;
+    margin-top: 65px;
 }
 .landscape{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .playstr {
@@ -108,7 +108,7 @@ a, a:link, a:visited {
     margin-left: 10px;
 }
 .logo {
-    margin: 25px 0 0px 210px !important;
+    margin: 15px 0 0px 185px !important;
     width: 30%;
 }
 .catamaran {
