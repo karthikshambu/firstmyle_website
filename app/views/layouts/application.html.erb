@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link href='https://fonts.googleapis.com/css?family=Catamaran:400,300' rel='stylesheet' type='text/css'>
-
+`
         <title>Firstmyle</title>
         <%= stylesheet_link_tag    "application", :media => "all" %>
         <%= javascript_include_tag "application" %>
@@ -29,6 +29,10 @@
           <div class="container">
             <div class="navbar-header">
               <%= link_to image_tag("logo.png", :border => 0, :class => "logo"), root_path %>
+            </div>
+            <div class="social">
+              <%= link_to image_tag("fb.jpeg", :width => "15%", :alt => "Facebook"), "https://www.facebook.com/Firstmyleapp/?fref=ts", :target => "_blank" %>
+              <%= link_to image_tag("tw.jpeg", :width => "20%", :alt => "Twitter"), "https://twitter.com/FirstMyle", :target => "_blank" %>
             </div>
           </div>
         </nav>

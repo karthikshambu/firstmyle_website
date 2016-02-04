@@ -59,7 +59,7 @@ a, a:link, a:visited {
 }
 
 .main-container {
-    margin-top: 65px;
+    margin-top: 50px;
 }
 .landscape{
     text-align: center;
@@ -108,7 +108,7 @@ a, a:link, a:visited {
     margin-left: 10px;
 }
 .logo {
-    margin: 15px 0 0px 185px !important;
+    margin: 15px 0 0px 210px !important;
     width: 30%;
 }
 .catamaran {
@@ -123,6 +123,13 @@ a, a:link, a:visited {
     color : #4D4D4D;
     color : rgb(77, 77, 77);
 }
+
+.social {
+  float: right;
+  margin-right: 50px;
+}
+
+
 
 #slideshow img {
     display: none;
